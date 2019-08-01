@@ -3,8 +3,8 @@
 #### https://cx.itsok.club/
 # 　
 ### 历史地址：
-*2019.02 - 2019.08： https://ssp.itsok.club/*
-*2018.09 - 2019.02： https://ssp.itsok.club/*
+- *2019.02 - 2019.08： https://ssp.itsok.club/*
+- *2018.09 - 2019.02： https://ssp.itsok.club/*
 # 　
 ### 联系方式：
 * Telegram群：[@ssp_itsok_user](https://t.me/ssp_itsok_user "@ssp_itsok_user")
