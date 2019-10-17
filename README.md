@@ -3,7 +3,7 @@
 #### https://cu.itsok.club/
 # 　
 ### 历史地址：
-- *2019.08 - 2019.10： https://ce.itsok.club/
+- *2019.08 - 2019.10： https://ce.itsok.club/*
 - *2019.08 - 2019.08： https://cx.itsok.club/*
 - *2019.02 - 2019.08： https://sp.itsok.club/*
 - *2018.09 - 2019.02： https://ssp.itsok.club/*
