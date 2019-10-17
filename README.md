@@ -1,8 +1,9 @@
 # 《善假于物》地址发布
 ### 当前最新地址：
-#### https://ce.itsok.club/
+#### https://cu.itsok.club/
 # 　
 ### 历史地址：
+- *2019.08 - 2019.10： https://ce.itsok.club/
 - *2019.08 - 2019.08： https://cx.itsok.club/*
 - *2019.02 - 2019.08： https://sp.itsok.club/*
 - *2018.09 - 2019.02： https://ssp.itsok.club/*
